@@ -1,6 +1,6 @@
 # Hi, I'm Saleh Abdulla 👋
 
-Software Engineer | Backend Developer | Open Source Enthusiast
+Software Engineer | Backend Developer
 
 I build scalable systems and enjoy solving complex algorithmic problems.
 
@@ -29,8 +29,3 @@ Docker • Git • Linux
 ### Portfolio Website
 Personal developer portfolio.
 
-### DSA Solutions
-Solutions for LeetCode problems.
-
-### Java Projects
-Backend and system design practice.

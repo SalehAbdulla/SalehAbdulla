@@ -22,7 +22,6 @@ Docker • Git • Linux
 
 - Data Structures & Algorithms
 - Backend Architecture
-- Open Source Contributions
 
 ## Featured Projects
 

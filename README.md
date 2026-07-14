@@ -2,7 +2,7 @@
 
 Software Engineer | Backend Developer
 # 💫 About Me:
-I'm Currently Working on Springboot & Golang microservices applications<br>I'm Currently learning DevOps, & system design.<br>I enjoy building APIs,  products, and scalable systems and enjoy solving complex algorithmic problems
+I'm Currently Working on Springboot & Golang microservices applications<br>I'm Currently learning DevOps, & system design<br>I enjoy building APIs,  products, and scalable systems and enjoy solving complex algorithmic problems
 
 
 # 💻 Tech Stack:

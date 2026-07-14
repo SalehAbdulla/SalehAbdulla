@@ -1,6 +1,7 @@
 # Hi, I'm Saleh Abdulla 👋
 
-Software Engineer | Backend Developer
+Java Full Stack developer | Tech Tutor
+
 # 💫 About Me:
 I'm Currently Working on Springboot & Golang microservices applications<br>I'm Currently learning DevOps, & system design<br>I enjoy building APIs,  products, and scalable systems and enjoy solving complex algorithmic problems
 

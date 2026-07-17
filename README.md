@@ -1,10 +1,11 @@
 # Hi, I'm Saleh Abdulla 👋
 
+```text
 ----------------------------------------   SalehAbdulla @github
 ----------------------------------------   ------------------------------
 -----------==+*+*+***++=----------------   Title ......... Java Full Stack Developer | Tech Tutor
 --------+*#%%%%%%%%%%%%%%#*=------------   Focus ......... Spring Boot & Go microservices
-------=*#%%%%%%%%%%%%%%@@@@%#+----------   Learning ...... DevOps, System Design
+------=*#%%%%%%%%%%%%%%@@@@%#+----------   Learning ...... DevOps, System Design, LeetCode
 -----*###%%%%%@%%%%%@@@@@@@@@@#=--------
 ----*%%%%%%##%%%%%%%%%%%%%%@@@@%=-------   Languages ..... Java, Go, JS/TS, Python, Dart
 ---=%%%%+====-===+++=======*%@%%+-------   Frameworks .... Spring, Node.js, React, Flutter
@@ -25,6 +26,7 @@
 --::.::=-*%@@%%%%%%#%%@@%*+=:--:--------
 :...::.--==+*#%@@@@@@%#*++++:-=:-----:::
 ....:..:::..:::-++++===-----::-::::::::.
+```
 
 # 💫 About Me:
 I'm Currently Working on Springboot & Golang microservices applications<br>I'm Currently learning DevOps, & system design<br>I enjoy building APIs,  products, and scalable systems and enjoy solving complex algorithmic problems

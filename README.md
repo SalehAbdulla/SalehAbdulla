@@ -3,7 +3,7 @@
 ```text
 ----------------------------------------   SalehAbdulla @github
 ----------------------------------------   ------------------------------
------------==+*+*+***++=----------------   Title ......... Java Full Stack Developer | Tech Tutor
+-----------==+*+*+***++=----------------   Title ......... Java Full Stack Developer | Tech Educator
 --------+*#%%%%%%%%%%%%%%#*=------------   Focus ......... Spring Boot & Go microservices
 ------=*#%%%%%%%%%%%%%%@@@@%#+----------   Learning ...... DevOps, System Design, LeetCode
 -----*###%%%%%@%%%%%@@@@@@@@@@#=--------

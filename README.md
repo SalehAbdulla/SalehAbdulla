@@ -39,6 +39,6 @@
 ![](https://streak-stats.demolab.com/?user=SalehAbdulla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SalehAbdulla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 Portfolio
+## ✨ Portfolio
 - **[portfolio-djzq.onrender.com](https://portfolio-djzq.onrender.com)**
 

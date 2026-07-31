@@ -40,5 +40,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SalehAbdulla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ✨ Portfolio
-- **[salehabdulla.online](https://salehabdulla.online/)**
+- **[SalehAbdulla.Online](https://salehabdulla.online/)**
 

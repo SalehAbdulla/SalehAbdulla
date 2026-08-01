@@ -1,4 +1,4 @@
-# Hi, I'm Saleh Abdulla 👋
+# Hi, I'm Saleh Abdulla
 
 ```text
 ----------------------------------------   SalehAbdulla @github | https://salehabdulla.online

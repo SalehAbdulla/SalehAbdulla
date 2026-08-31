@@ -21,7 +21,7 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           token: ${{ secrets.STREAK_STATS_TOKEN }}
-          options: "user=SalehAbdulla&theme=dark&hide_border=false&type=all"
+          options: "user=SalehAbdulla&theme=dark&hide_border=false"
           path: "profile-readme-streak-stats.svg"
 
       - name: Commit and push SVG

@@ -18,13 +18,11 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           token: ${{ secrets.STREAK_STATS_TOKEN }}
-          user: SalehAbdulla
-          options: "theme=dark&hide_border=false"
+          options: "user=SalehAbdulla&theme=dark&hide_border=false"
+          path: "profile-readme-streak-stats.svg"
 
       - name: Commit and push SVG
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-readme-streak-stats.svg
-          git commit -m "Update streak stats SVG" || exit 0
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update streak stats SVG"
+          file_pattern: "profile-readme-streak-stats.svg"

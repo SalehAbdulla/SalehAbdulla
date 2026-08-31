@@ -1,6 +1,9 @@
 name: Update streak stats
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:

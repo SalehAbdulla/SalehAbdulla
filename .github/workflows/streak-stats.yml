@@ -1,0 +1,21 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: GitHub Readme Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          github_user: SalehAbdulla
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          theme: dark
+          hide_border: false
+          output_filename: streak-stats.svg

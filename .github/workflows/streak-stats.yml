@@ -20,7 +20,7 @@ jobs:
       - name: Run Streak Stats Action
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           options: "user=SalehAbdulla&theme=dark&hide_border=false"
           path: "profile-readme-streak-stats.svg"
 

@@ -22,8 +22,8 @@
 
 <p align="center">
   <img src="https://gitviews.com/user/SalehAbdulla.svg?label=Profile%20Views&amp;label-color=%23555555&amp;color=%230e75b6&amp;base=94" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SalehAbdulla?label=Followers&amp;style=flat&amp;color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Internships-2ea44f?style=flat" alt="Open to remote and internships" />
+  <img src="https://img.shields.io/static/v1?label=Focus&amp;message=Spring%20Boot%20%26%20Go%20Microservices&amp;color=0e75b6&amp;style=flat" alt="Focus: Spring Boot and Go microservices" />
+  <img src="https://img.shields.io/static/v1?label=Building%20at&amp;message=BeyondEduBH&amp;color=2ea44f&amp;style=flat" alt="Building at BeyondEduBH" />
 </p>
 
 <p align="center">

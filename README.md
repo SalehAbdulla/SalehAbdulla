@@ -40,7 +40,6 @@ building scalable products and understanding how software works under the hood.
 - ⚙️ Deepening my **DevOps** skills — Docker, CI/CD, Kubernetes
 - 🧠 Interested in **System Design** &amp; distributed systems
 - 🧩 I enjoy designing clean APIs, shipping scalable products and solving tricky algorithmic problems
-- 🌍 Open to **remote** &amp; **internship** opportunities
 - 📚 **59** public repositories and counting
 
 ---

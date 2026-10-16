@@ -3,6 +3,8 @@
      Auto-updating widgets (do not edit these files by hand):
        • .github/workflows/streak-stats.yml  → profile-readme-streak-stats.svg
        • .github/workflows/snake.yml         → contribution snake (output branch)
+     Static asset:
+       • terminal-card.svg  → neofetch-style terminal card shown under the header
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- ───────────────────────────────── HEADER ───────────────────────────────── -->
@@ -23,6 +25,14 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=24&amp;duration=2500&amp;pause=1000&amp;color=3BA4F2&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Java+Full+Stack+Developer;Spring+Boot+%26+Go+Microservices;Tech+Educator+%40+BeyondEduBH;System+Design+%26+DevOps;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- ───────────────────────────── TERMINAL CARD ───────────────────────────── -->
+
+<p align="center">
+  <img src="./terminal-card.svg" alt="Saleh Abdulla — terminal card: Java Full Stack Developer, Spring Boot &amp; Go microservices, based in Bahrain" />
 </p>
 
 ---
@@ -192,46 +202,6 @@ building scalable products and understanding how software works under the hood.
 </p>
 
 > *"Work harder on yourself than you do on your job."*
-
----
-
-<!-- ─────────────────────────── ASCII TERMINAL CARD ───────────────────────── -->
-
-<details>
-<summary>🖥️ Terminal Card</summary>
-
-<br />
-
-```text
-----------------------------------------   SalehAbdulla @github | https://salehabdulla.online
-----------------------------------------   ------------------------------
------------==+*+*+***++=----------------   Title ......... Java Full Stack Developer | Tech Educator
---------+*#%%%%%%%%%%%%%%#*=------------   Focus ......... Spring Boot & Go microservices
-------=*#%%%%%%%%%%%%%%@@@@%#+----------   Learning ...... DevOps, System Design, LeetCode
------*###%%%%%@%%%%%@@@@@@@@@@#=--------
-----*%%%%%%##%%%%%%%%%%%%%%@@@@%=-------   Languages ..... Java, Go, JS/TS, Python, Dart
----=%%%%+====-===+++=======*%@%%+-------   Frameworks .... Spring, Node.js, React, Flutter
----=%%%+------------------==#%%%+-------   Databases ..... Postgres, MySQL, PL/SQL, SQLite
----=###=---=========---=====*%%%=-------
-----##*=------------------==*%%%--------   GitHub ........ github.com/SalehAbdulla
-----+#=-=======-----=-=======*%*--------   Instagram ..... instagram.com/salehacademy_
---=++*+*##%%%%%##*###%%%####++*+=-------   Youtube ....... youtube.com/@saleh_academy
---=*+#++*##%@%%%###%%@%@@%#+##***-------   Linkedin ...... linkedin.com/in/salehabdullaict
----=++=--+**#**#+-+#**###*+=++**=-------
-----=+=-=--===**---**=======++*=--------
-----=*+======*+=--=+**+=====+**---------
------###*++=++*#####*++++++*#%=---------
------=%%#**+**#%%%%%#**+*#%%%+----------
-------*@@###@%%#%%##%@@##%@@*-----------
--------*@%%%#***###***#%%@@#------------
--------=*@@@%#*#@@%#*#%@@@%=------------
---::.::=-*%@@%%%%%%#%%@@%*+=:--:--------
-:...::.--==+*#%@@@@@@%#*++++:-=:-----:::
-....:..:::..:::-++++===-----::-::::::::.
-----------------------------------------
-```
-
-</details>
 
 ---
 

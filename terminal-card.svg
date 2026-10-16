@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="895" height="573" viewBox="0 0 895.00 573.00" role="img" aria-label="Saleh Abdulla terminal card">
+  <title>Saleh Abdulla — Terminal Card</title>
+  <!-- Generated from the neofetch ASCII art; edit the tspan text below to change it. -->
+  <defs>
+    <linearGradient id="art" gradientUnits="userSpaceOnUse" x1="30" y1="40" x2="342.00" y2="550">
+      <stop offset="0" stop-color="#7dcfff"/>
+      <stop offset="0.5" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="894.00" height="572.00" rx="10" fill="#1a1b27" stroke="#2f334d"/>
+  <path d="M0.5 10.5 A10 10 0 0 1 10.5 0.5 H884.50 A10 10 0 0 1 894.50 10.5 V40 H0.5 Z" fill="#16161e"/>
+  <circle cx="22" cy="20.0" r="5.5" fill="#ff5f56"/>
+  <circle cx="40" cy="20.0" r="5.5" fill="#ffbd2e"/>
+  <circle cx="58" cy="20.0" r="5.5" fill="#27c93f"/>
+  <text x="447.5" y="24.5" fill="#565f89" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" text-anchor="middle">saleh@github: ~$ neofetch</text>
+  <g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" xml:space="preserve">
+    <text x="30" y="69.0" fill="url(#art)">----------------------------------------</text>
+    <text x="365.4" y="69.0" fill="#7dcfff">SalehAbdulla @github | https://salehabdulla.online</text>
+    <text x="30" y="88.0" fill="url(#art)">----------------------------------------</text>
+    <text x="365.4" y="88.0" fill="#565f89">------------------------------</text>
+    <text x="30" y="107.0" fill="url(#art)">-----------==+*+*+***++=----------------</text>
+    <text x="365.4" y="107.0" fill="#70a5fd">Title</text>
+    <text x="459.0" y="107.0" fill="#565f89">.........</text>
+    <text x="537.0" y="107.0" fill="#c0caf5">Java Full Stack Developer | Tech Educator</text>
+    <text x="30" y="126.0" fill="url(#art)">--------+*#%%%%%%%%%%%%%%#*=------------</text>
+    <text x="365.4" y="126.0" fill="#70a5fd">Focus</text>
+    <text x="459.0" y="126.0" fill="#565f89">.........</text>
+    <text x="537.0" y="126.0" fill="#c0caf5">Spring Boot &amp; Go microservices</text>
+    <text x="30" y="145.0" fill="url(#art)">------=*#%%%%%%%%%%%%%%@@@@%#+----------</text>
+    <text x="365.4" y="145.0" fill="#70a5fd">Learning</text>
+    <text x="459.0" y="145.0" fill="#565f89">......</text>
+    <text x="537.0" y="145.0" fill="#c0caf5">DevOps, System Design, LeetCode</text>
+    <text x="30" y="164.0" fill="url(#art)">-----*###%%%%%@%%%%%@@@@@@@@@@#=--------</text>
+    <text x="30" y="183.0" fill="url(#art)">----*%%%%%%##%%%%%%%%%%%%%%@@@@%=-------</text>
+    <text x="365.4" y="183.0" fill="#70a5fd">Languages</text>
+    <text x="459.0" y="183.0" fill="#565f89">.....</text>
+    <text x="537.0" y="183.0" fill="#c0caf5">Java, Go, JS/TS, Python, Dart</text>
+    <text x="30" y="202.0" fill="url(#art)">---=%%%%+====-===+++=======*%@%%+-------</text>
+    <text x="365.4" y="202.0" fill="#70a5fd">Frameworks</text>
+    <text x="459.0" y="202.0" fill="#565f89">....</text>
+    <text x="537.0" y="202.0" fill="#c0caf5">Spring, Node.js, React, Flutter</text>
+    <text x="30" y="221.0" fill="url(#art)">---=%%%+------------------==#%%%+-------</text>
+    <text x="365.4" y="221.0" fill="#70a5fd">Databases</text>
+    <text x="459.0" y="221.0" fill="#565f89">.....</text>
+    <text x="537.0" y="221.0" fill="#c0caf5">Postgres, MySQL, PL/SQL, SQLite</text>
+    <text x="30" y="240.0" fill="url(#art)">---=###=---=========---=====*%%%=-------</text>
+    <text x="30" y="259.0" fill="url(#art)">----##*=------------------==*%%%--------</text>
+    <text x="365.4" y="259.0" fill="#70a5fd">GitHub</text>
+    <text x="459.0" y="259.0" fill="#565f89">........</text>
+    <text x="537.0" y="259.0" fill="#c0caf5">github.com/SalehAbdulla</text>
+    <text x="30" y="278.0" fill="url(#art)">----+#=-=======-----=-=======*%*--------</text>
+    <text x="365.4" y="278.0" fill="#70a5fd">Instagram</text>
+    <text x="459.0" y="278.0" fill="#565f89">.....</text>
+    <text x="537.0" y="278.0" fill="#c0caf5">instagram.com/salehacademy_</text>
+    <text x="30" y="297.0" fill="url(#art)">--=++*+*##%%%%%##*###%%%####++*+=-------</text>
+    <text x="365.4" y="297.0" fill="#70a5fd">Youtube</text>
+    <text x="459.0" y="297.0" fill="#565f89">.......</text>
+    <text x="537.0" y="297.0" fill="#c0caf5">youtube.com/@saleh_academy</text>
+    <text x="30" y="316.0" fill="url(#art)">--=*+#++*##%@%%%###%%@%@@%#+##***-------</text>
+    <text x="365.4" y="316.0" fill="#70a5fd">Linkedin</text>
+    <text x="459.0" y="316.0" fill="#565f89">......</text>
+    <text x="537.0" y="316.0" fill="#c0caf5">linkedin.com/in/salehabdullaict</text>
+    <text x="30" y="335.0" fill="url(#art)">---=++=--+**#**#+-+#**###*+=++**=-------</text>
+    <text x="30" y="354.0" fill="url(#art)">----=+=-=--===**---**=======++*=--------</text>
+    <text x="30" y="373.0" fill="url(#art)">----=*+======*+=--=+**+=====+**---------</text>
+    <text x="30" y="392.0" fill="url(#art)">-----###*++=++*#####*++++++*#%=---------</text>
+    <text x="30" y="411.0" fill="url(#art)">-----=%%#**+**#%%%%%#**+*#%%%+----------</text>
+    <text x="30" y="430.0" fill="url(#art)">------*@@###@%%#%%##%@@##%@@*-----------</text>
+    <text x="30" y="449.0" fill="url(#art)">-------*@%%%#***###***#%%@@#------------</text>
+    <text x="30" y="468.0" fill="url(#art)">-------=*@@@%#*#@@%#*#%@@@%=------------</text>
+    <text x="30" y="487.0" fill="url(#art)">--::.::=-*%@@%%%%%%#%%@@%*+=:--:--------</text>
+    <text x="30" y="506.0" fill="url(#art)">:...::.--==+*#%@@@@@@%#*++++:-=:-----:::</text>
+    <text x="30" y="525.0" fill="url(#art)">....:..:::..:::-++++===-----::-::::::::.</text>
+    <text x="30" y="544.0" fill="url(#art)">----------------------------------------</text>
+  </g>
+</svg>

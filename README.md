@@ -94,7 +94,7 @@ building scalable products and understanding how software works under the hood.
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,js,ts,python,dart,cs,cpp,swift,rust&amp;perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,go,js,ts,python,dart,cs,swift,rust&amp;perline=10" alt="Languages" />
 </p>
 
 **Frameworks &amp; Libraries**

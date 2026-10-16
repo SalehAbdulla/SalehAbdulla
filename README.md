@@ -5,6 +5,9 @@
        • .github/workflows/snake.yml         → contribution snake (output branch)
      Static asset:
        • terminal-card.svg  → neofetch-style terminal card shown under the header
+     Badge note:
+       • the "Profile views" badge (gitviews.com) carries ?base=94 to preserve the
+         count from the previous komarev badge — keep that param in the URL
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- ───────────────────────────────── HEADER ───────────────────────────────── -->
@@ -18,7 +21,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SalehAbdulla&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
+  <img src="https://gitviews.com/user/SalehAbdulla.svg?label=Profile%20Views&amp;label-color=%23555555&amp;color=%230e75b6&amp;base=94" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/SalehAbdulla?label=Followers&amp;style=flat&amp;color=0e75b6" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Internships-2ea44f?style=flat" alt="Open to remote and internships" />
 </p>
